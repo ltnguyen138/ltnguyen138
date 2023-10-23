@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lê Trang Nguyên</h1>
+<h1 align="center">Hi 👋, I'm Le Trang Nguyen</h1>
 <h3 align="center">I am a passionate web development student</h3>
 
 - I’m currently working and learning on [EcommerceDemoAPI](https://github.com/ltnguyen138/EcommerceDemoAPI)
